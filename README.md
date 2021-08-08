@@ -1,22 +1,31 @@
-![uBuild Blocks](uploads/2018/06/21/theme.png)
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-# uBuild Jekyll Theme
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-[View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
+## Demo
 
-`ubuild-jekyll` is a Jekyll theme designed to work with [Forestry](https://forestry.io/)'s [Blocks](https://forestry.io/blog/blocks-give-your-editors-the-power-to-build-pages/) feature.  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI that will empower content editors to construct their own webpages.
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-## Quick Start
+The main page would look like this:
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll)
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-*This option is available for Github and Gitlab users only. If you use Bitbucket please use the Alternative Setup*
+The post page would look like this:
 
-## Alternative Setup
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-1. Fork this repo
-2. [Sign up for a free Forestry account](https://app.forestry.io/signup)
-3. [Import your repo](https://forestry.io/docs/quickstart/setup-site/#import-site-from-repo) as a new Jekyll project
+## Features
 
-To use the page builder, select the **Page Builder** template when creating a new page.
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
 
+## Installation:
+
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+## License
+
+GNU General Public License v3.0
