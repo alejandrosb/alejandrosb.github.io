@@ -30,5 +30,5 @@ El software esta enteramente desarrollado utilizando tecnologías web. Se requie
 * * *
 
 ### Large image
-
-![Menudigital](https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png)
+[Link to another page](https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png).
+![Menudigital ](https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png)
