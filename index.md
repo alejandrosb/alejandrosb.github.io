@@ -26,9 +26,6 @@ La entrevista a petición brinda una experiencia simple, que se puede utilizar e
 ## Menu Digital
 
 El software esta enteramente desarrollado utilizando tecnologías web. Se requiere de un navegador, teléfono inteligente y una conexión a internet. 
-
+<img src="https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png?raw=true"/>
 * * *
 
-### Large image
-[Link to another page](https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png).
-<img src="https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png?raw=true"/>
