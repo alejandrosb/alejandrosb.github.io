@@ -31,4 +31,4 @@ El software esta enteramente desarrollado utilizando tecnologías web. Se requie
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Menudigital](https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g898.png)
