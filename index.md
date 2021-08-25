@@ -5,6 +5,14 @@ layout: default
 # Proyectos
 
 
+## Gestion de tickets
+
+Autoatención, gerenciado por un chatbot. 
+
+<img src="https://github.com/alejandrosb/alejandrosb.github.io/blob/master/assets/img/g81.png?raw=true"/>
+
+* * *
+
 ## Chatbot
 
 Registro de consulta medica, basado en regla. 
